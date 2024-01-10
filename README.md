@@ -40,3 +40,12 @@ This repository contains the source code for a simple ToDo List application deve
 <h3>
   database:room database(local storage)
 </h3>
+<h2>Tech stack & Open-source libraries</h2>
+Minimum SDK level 26
+Kotlin
+<p></p>Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
+ViewModel: Manages UI-related data holder and lifecycle aware. Allows data to survive configuration changes such as screen rotations.
+DataBinding: Binds UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
+Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
+Navigation Component Graphs - To use single activity multiple fragment architecture.</p>
+
